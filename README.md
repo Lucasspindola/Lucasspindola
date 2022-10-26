@@ -1,6 +1,6 @@
 <h4>Olá</h4> eu sou Desenvolvedor front-end REACT. Tenho experiencia em varios projetos JavaScript,Typescript, NodeJS, ReactJS.
-Sou aluno do bootcamp da Kenzie Academy, curso Full-Stack, onde realizo varios projetos praticos semanalmente. Gosto de sempre aprender 
-novas tecnologias e novas formas de realizar meus projetos. 
+Sou aluno do bootcamp da Kenzie Academy, curso Full-Stack,aqui posto alguns de meus projetos. Gosto de sempre aprender 
+novas tecnologias e novas formas de realizar minhas demandas. 
 
 ##
 
